@@ -15,6 +15,7 @@ City General Hospital is facing a critical operational crossroads. Despite high 
 ## Datasets- **Patients.csv / Patients.xlsx** — patient_id, age, gender, visit_date, department,
 ---
 ## Dashboard Features
+![Hospital Operations Dashboard](Screenshot%28745%29.png)
 - Key KPIs: total patients,
 - Visuals: time-series of visits, age-group distributions, staff workload heatmap, stock expiry
 chart, departmental revenue breakdown
@@ -23,7 +24,7 @@ chart, departmental revenue breakdown
 ## Key Findings
 - Senior Demographic Dominance: Seniors (65+) are the top patient demographic, yet current bed configurations do not reflect this.
 - Extreme Workload Imbalance: The busiest doctor handles 20 times the average patient workload.
-- Inventory mismatch: critical drugs short while others are near expiry
+- Inventory mismatch: critical drugs are short while others are near expiry
 - Inventory Risk: High-demand drugs like Lipitor and Ibuprofen require higher safety stock, while low-demand medications face expiration risks.
 - Financial Leakage: Aetna has a significantly lower average payment ($25,427.70) compared to other providers like Cigna ($25,727.04)
 ---
@@ -46,6 +47,7 @@ chart, departmental revenue breakdown
 - `/City_Hospital_Dataset/` — raw data files used for analysis (CSV / XLSX)
 - `Mayowa's_Data_Driven_Review.pptx` — boardroom slide deck (10–12 slides)
 - `README.md` — this documentation
+- `Screenshot(745).png` - Dashboard Picture
 ---## How to Run / View
 1. Open `City_Hospital_Dataset.xlsx` in Excel (desktop recommended)
 2. Enable content (if prompted) to allow Pivot Tables and slicers to work
