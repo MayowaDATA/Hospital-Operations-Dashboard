@@ -58,3 +58,5 @@ chart, departmental revenue breakdown
 Mayowa Adeboye
 Email: _Adeboyemayowa86@gmail.com
 LinkedIn: _http://www.linkedin.com/in/mayowaadeboye_
+## Repository Link
+[View Project on GitHub](https://github.com/MayowaDATA/Hospital-Operations-Dashboard)
